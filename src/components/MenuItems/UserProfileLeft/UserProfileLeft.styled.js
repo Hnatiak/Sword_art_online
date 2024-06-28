@@ -4,10 +4,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export const Container = styled.div`
     pointer-events: none;
     user-select: none;
-    position: fixed;
-    left: 830px;
+    position: absolute;
+    right: 550px;
     box-shadow: 0 0 10px rgba(0, 6, 0, 0.8);
-    top: 180px;
+    top: -150px;
     display: flex;
     flex-direction: column;
 `;
@@ -64,11 +64,9 @@ export const CircleItems = styled.div`
 `;
 
 export const CircleOptions = styled.div`
-    width: 100px;
-    height: 100px;
-    position: fixed;
-    top: 340px;
-    left: 932px;
+    position: absolute;
+    top: 165px;
+    left: 105px;
 `;
 
 export const CircleOne = styled.div`

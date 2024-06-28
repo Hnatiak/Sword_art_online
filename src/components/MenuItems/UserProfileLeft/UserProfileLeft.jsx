@@ -86,9 +86,11 @@ const UserProfileLeft = () => {
             <LogoContainer>
               <Logo src={Person} alt='Person' />
               <LogoHover src={Person} alt='Person' />
-              <CircleOptions>
-                <CircleItems>{circleItems}</CircleItems>
-              </CircleOptions>
+              <div>
+                <CircleOptions>
+                  <CircleItems>{circleItems}</CircleItems>
+                </CircleOptions>
+              </div>
             </LogoContainer>
             <Smscontainer />
         </Item>

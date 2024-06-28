@@ -114,7 +114,9 @@ const UserProfileRight = () => {
             </ItemActive>
             <div>
               <MenuProvider>
-                <UserProfileLeft />
+                <div>
+                  <UserProfileLeft />
+                </div>
                 <SkillsItems />
               </MenuProvider>
             </div>
