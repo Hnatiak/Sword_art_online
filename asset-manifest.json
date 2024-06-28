@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sword_art_online/static/css/main.f80a218d.css",
+    "main.js": "/sword_art_online/static/js/main.ec2e98fc.js",
+    "static/js/112.f40ccaf2.chunk.js": "/sword_art_online/static/js/112.f40ccaf2.chunk.js",
+    "static/js/244.9dea75b6.chunk.js": "/sword_art_online/static/js/244.9dea75b6.chunk.js",
+    "static/media/music.mp3": "/sword_art_online/static/media/music.5d86776f81c98dcf796b.mp3",
+    "static/media/SAO_Menu_SFX.mp3": "/sword_art_online/static/media/SAO_Menu_SFX.805ed3c768cc2488efad.mp3",
+    "static/media/Tracking.png": "/sword_art_online/static/media/Tracking.0bf91af31cb2984fc451.png",
+    "static/media/Settings.png": "/sword_art_online/static/media/Settings.6f008ef810c84b458006.png",
+    "static/media/Location.png": "/sword_art_online/static/media/Location.c03997e048aa4a6fcc8b.png",
+    "static/media/GroupTeam.png": "/sword_art_online/static/media/GroupTeam.c88af539a9f1fa2018e7.png",
+    "static/media/User.png": "/sword_art_online/static/media/User.090aa2bc454e2c3e6312.png",
+    "static/media/Chat.png": "/sword_art_online/static/media/Chat.e32283db6bfa3bb78aba.png",
+    "static/media/accept.png": "/sword_art_online/static/media/accept.3fd44bd66e7d997b2f26.png",
+    "index.html": "/sword_art_online/index.html",
+    "main.f80a218d.css.map": "/sword_art_online/static/css/main.f80a218d.css.map",
+    "main.ec2e98fc.js.map": "/sword_art_online/static/js/main.ec2e98fc.js.map",
+    "112.f40ccaf2.chunk.js.map": "/sword_art_online/static/js/112.f40ccaf2.chunk.js.map",
+    "244.9dea75b6.chunk.js.map": "/sword_art_online/static/js/244.9dea75b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f80a218d.css",
+    "static/js/main.ec2e98fc.js"
+  ]
+}
